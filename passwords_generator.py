@@ -26,6 +26,7 @@ def generar_contrasena():
 def run():
     pasword = generar_contrasena()
     print(f"Your new password is: ----->  {pasword}  <----- ")
+    print("hola soy un nuevo colaborador de este proyecto"
 
 
 
